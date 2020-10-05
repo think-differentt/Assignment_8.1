@@ -1,6 +1,7 @@
 #<Justin Carter>
 #<04OCT2020>
 #Writing a Python program that has you interacting with the file system.
+# Some supporting information taken from https://www.tutorialspoint.com/python/python_files_io.htm
 
 import os
 
